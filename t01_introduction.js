@@ -1,10 +1,10 @@
 /****************************
  Name of task: Intro to Java Script
  Name: Tikshan
- Date: Term two week one
+ Date: Term two week one 2025
  Purpose:  Learning javascript
 *****************************/
-console.log("Running t01_introduction.js");
+console.log("Yo!");
 
 //Variables
 
