@@ -5,9 +5,11 @@
  Purpose:  Learning javascript
 *****************************/
 console.log(pocketMoney);
-var pocketMoney = 3;
-//Variables
 
+//Variables
+var username = tikshan;
+var userage = 16;
+var pocketMoney = 3;
 
 /****************************
 Main Code
