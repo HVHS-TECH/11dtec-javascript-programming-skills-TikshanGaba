@@ -4,7 +4,7 @@
  Date: Term two week one 2025
  Purpose:  Learning javascript
 *****************************/
-console.log("Yo!");
+console.log("Hi");
 
 //Variables
 
