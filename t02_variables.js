@@ -5,7 +5,7 @@
  Purpose:  Learning javascript
 *****************************/
 console.log(pocketMoney);
-var useMoney = 3;
+var pocketMoney = 3;
 //Variables
 
 
