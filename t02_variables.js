@@ -4,8 +4,8 @@
  Date: Term two week one 2025
  Purpose:  Learning javascript
 *****************************/
-console.log("Hi");
-
+console.log("pocket money");
+let useMmoney = 3
 //Variables
 
 
