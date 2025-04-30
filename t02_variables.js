@@ -1,8 +1,8 @@
 /****************************
- Name of task: Intro to Java Script
+ Name of task: Variables
  Name: Tikshan
  Date: Term two week one 2025
- Purpose:  Learning javascript
+ Purpose: Learning Variables in javascript
 *****************************/
 
 
