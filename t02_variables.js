@@ -9,7 +9,7 @@ console.log(pocketMoney);
 //Variables
 var username = tikshan;
 var userage = 16;
-var pocketMoney = 3;
+let pocketMoney = 3;
 
 /****************************
 Main Code
