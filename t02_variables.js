@@ -4,7 +4,6 @@
  Date: Term two week one 2025
  Purpose:  Learning javascript
 *****************************/
-console.log(pocketMoney);
 console.log("you have", pocketMoney = 20, "dollars");
 
 //Variables
