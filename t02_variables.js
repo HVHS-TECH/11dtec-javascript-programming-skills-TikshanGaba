@@ -2,7 +2,7 @@
  Name of task: Variables
  Name: Tikshan
  Date: Term two week one 2025
- Purpose: Learning Variables in javascript
+ Purpose: Learning Variables in Javascript
 *****************************/
 
 
