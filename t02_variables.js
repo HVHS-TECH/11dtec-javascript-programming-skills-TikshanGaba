@@ -7,10 +7,14 @@
 console.log(pocketMoney);
 
 //Variables
-var username = Sam;
+
+
+var username = "Tikshan";
 var userage = 16;
 var pocketMoney = 3;
 var currentyear = 2025;
+
+
 /****************************
 Main Code
 ****************************/
