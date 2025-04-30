@@ -4,11 +4,6 @@
  Date: Term two week one 2025
  Purpose:  Learning javascript
 *****************************/
-console.log("Hi", Tikshan,
-    "age", 16,
-    
-)
-console.log("you have", pocketMoney = 20, "dollars");
 
 
 //Variables
@@ -16,7 +11,7 @@ console.log("you have", pocketMoney = 20, "dollars");
 
 var username = "Tikshan";
 var userage = 16;
-var pocketMoney = 3;
+var pocketMoney = 20;
 var currentyear = 2025;
 
 
@@ -24,6 +19,10 @@ var currentyear = 2025;
 Main Code
 ****************************/
 
+
+console.log("Hi", username,
+"as of", currentyear,"you are", userage,
+"you have", pocketMoney, "dollars")
 
 
 
