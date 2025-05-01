@@ -1,9 +1,10 @@
 /****************************
- Name of task: Variables
+ Name of task: Debugging
  Name: Tikshan
  Date: Term two week one 2025
- Purpose: Learning Variables in Javascript
+ Purpose: Learning Debugging in Javascript
 *****************************/
+
 console.log("Task 4 - Debugging")
 
 // calculate the area
