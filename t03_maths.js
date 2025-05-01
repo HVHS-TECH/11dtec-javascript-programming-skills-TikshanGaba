@@ -9,10 +9,7 @@
 //Variables
 
 
-var username = "Tikshan";
-var userage = 16;
-var pocketMoney = 20;
-var currentyear = 2025;
+
 
 
 /****************************
@@ -20,9 +17,7 @@ Main Code
 ****************************/
 
 
-console.log("Hi", username,
-"as of", currentyear,"you are", userage,
-"you have", pocketMoney, "dollars")
+console.log(1+2);
 
 
 
