@@ -7,13 +7,13 @@
 
 
 //Variables
-var userName = prompt("what is your name", "Bob")
+var userName = prompt("What is your name", "Stranger")
 
 /****************************
 Main Code
 ****************************/
-alert("Welcome to my program \nPlease enter your name")
-prompt()
+alert("Welcome to my program" + userName + "\nPlease enter your name")
+
 
 
 /**************************** 
