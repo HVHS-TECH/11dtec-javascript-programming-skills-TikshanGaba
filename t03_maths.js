@@ -24,7 +24,7 @@ console.log("Hi", username)
 console.log("as of", currentyear)
 console.log("you are", userage)
 console.log("you were born in", birthyear)
-console.log("in 10 years you will be",)
+console.log("in 10 years you will be",16 + 10)
 console.log("you have", pocketMoney, "dollars")
 
 
