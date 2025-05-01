@@ -7,15 +7,14 @@
 
 
 //Variables
-var userName = prompt("What is your name", "Stranger")
+var userName = " Stranger ";
 
 /****************************
 Main Code
 ****************************/
 alert("Welcome to my program" + userName + "\nPlease enter your name")
-
-
-
+var userName = prompt("What is your name")
+var userage = prompt("What is your age ?");
 /**************************** 
 Functions
 ****************************/
