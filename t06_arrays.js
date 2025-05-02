@@ -9,11 +9,11 @@
 //Variables
 var userName = alert(" Welcome To my program, Who are you from my class ?");
 let classArray = ["Tikshan","Adarsh","Yuvi","Lucas","Josh"];
-let choice = prompt("Pick a number from 0 to 4");
+let choice = prompt("Pick a number from 0 to 4 to identify yourself");
 /****************************
 Main Code
 ****************************/
-alert( "Pick 0 to 4 to identify yourself" + choice + classArray[choice] )
+alert( " Person Number " + choice + " is " + classArray[choice] )
 
 /**************************** 
 Functions
