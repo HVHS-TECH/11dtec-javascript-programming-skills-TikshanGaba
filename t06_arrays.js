@@ -13,8 +13,8 @@ let choice = prompt("Pick a number from 0 to 4");
 /****************************
 Main Code
 ****************************/
-alert("Welcome to my program" + userName + "\nWho are you from my class ?" + classArray)
-alert("Person"+ choice + "is" +classArray[choice])
+alert("Welcome to my program \nWho are you from my class ?")
+alert("Person"+ choice + " is " +classArray[choice])
 
 /**************************** 
 Functions
