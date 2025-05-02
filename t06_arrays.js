@@ -7,13 +7,13 @@
 
 
 //Variables
-var userName = " Stranger ";
+var userName = alert(" Welcome To my program ");
 let classArray = ["Tikshan","Adarsh","Yuvi","Lucas","Josh"];
 let choice = prompt("Pick a number from 0 to 4");
 /****************************
 Main Code
 ****************************/
-alert( choice + classArray[choice] )
+alert( "who are you from my class ?" + choice + classArray[choice] )
 
 /**************************** 
 Functions
