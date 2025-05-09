@@ -8,14 +8,22 @@
 
 //Variables
 var userName = alert(" Welcome To my program, Verify your age");
-let choice = prompt("Pick a number from 0 to 100 to identify yourself");
+let choice = prompt("Pick a number from 0 to 100 to identify your age");
 /****************************
 Main Code
 ****************************/
 if (age < 70){
-    console.log("Define")
+    console.log("Defineitely too young")
 }
 
+if (age >= 70){
+console.log("Too old")
+}
+
+if (age ==70){
+    console.log("Just right")
+
+}
 /**************************** 
 Functions
 ****************************/
