@@ -7,8 +7,7 @@
 
 
 //Variables
-var userName = alert(" Welcome To my program, Who are you from my class ?");
-let classArray = ["Tikshan","Adarsh","Yuvi","Lucas","Josh"];
+var userName = alert(" Welcome To my program, Verify your age");
 let choice = prompt("Pick a number from 0 to 4 to identify yourself");
 /****************************
 Main Code
