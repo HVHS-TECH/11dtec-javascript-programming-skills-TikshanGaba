@@ -7,7 +7,10 @@
 
 
 //Variables
-
+const MINAGE = 0;
+const MAXAGE = 100;
+let userAge;
+let userAgeIsInvalid
 /****************************
 Main Code
 ****************************/
