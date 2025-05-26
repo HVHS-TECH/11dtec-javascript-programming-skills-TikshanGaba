@@ -10,7 +10,12 @@
 const MINAGE = 0;
 const MAXAGE = 100;
 let userAge;
-let userAgeIsInvalid
+let userAgeIsInvalid = true;
+// userAge : loop while user's reply is invalid
+while(userAgeIsInvalid) {
+    userAge = prompt("Please enter your age ?");
+    if(userAge
+}
 /****************************
 Main Code
 ****************************/
