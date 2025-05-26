@@ -7,13 +7,7 @@
 
 
 //Variables
-var password = prompt ("Speak 'friend' and enter");
 
-while (password !="friend"){
-    password = prompt("That's not the password. \nSpeak 'friend' and enter");
-}
-
-alert("Welcome friend!")
 /****************************
 Main Code
 ****************************/
