@@ -1,13 +1,13 @@
 /****************************
- Name of task: Intro to Java Script
+ Name of task: Intro to while loop
  Name: Tikshan
- Date: Term two week one 2025
- Purpose:  Learning javascript
+ Date: Term two week five 2025
+ Purpose:  Learning while loops in javascript
 *****************************/
-console.log("Yo!");
+
 
 //Variables
-
+var password = prompt ("Speak 'friend' and enter")
 
 /****************************
 Main Code
