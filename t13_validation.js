@@ -9,8 +9,25 @@
 //Variables
 const MINAGE = 0;
 const MAXAGE = 100;
+let userName;
+let userNameIsInvalid = true;
 let userAge;
 let userAgeIsInvalid = true;
+
+/****************************
+Main Code
+****************************/
+// userName : loop while user's reply is invalid
+while(userNameIsInvalid) {
+    userName = prompt("Hi, Please type your name");
+    if(userName == null || userName == "" || userName == " " || isNaN (userName) ) {
+        alert("Invalid input : Enter a name");
+    }
+    else { // Name is valid, so exit the userAhe loop by setting while condition loop condition
+        userName = false;
+    }
+}
+
 // userAge : loop while user's reply is invalid
 while(userAgeIsInvalid) {
     userAge = prompt("Nice name, " + userName + " Please enter your age ?");
@@ -24,10 +41,6 @@ while(userAgeIsInvalid) {
 
 
 console.log ("You are: " + userAge);
-/****************************
-Main Code
-****************************/
-
 
 
 
