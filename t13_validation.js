@@ -20,7 +20,7 @@ Main Code
 // userName : loop while user's reply is invalid
 while(userNameIsInvalid) {
     userName = prompt("Hi, Please type your name");
-    if(userName == "" || userName == "" || userName == " " || isNaN (userName)  ) {
+    if( userName == "" || userName == " " || isNaN (userName)  ) {
         alert("Invalid input : Enter a name");
     }
     else { // Name is valid, so exit the userName loop by setting while condition loop condition
