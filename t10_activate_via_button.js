@@ -31,3 +31,4 @@ function start()
  
     userMoney = prompt("How much money do you have ?")
  }
+ 
