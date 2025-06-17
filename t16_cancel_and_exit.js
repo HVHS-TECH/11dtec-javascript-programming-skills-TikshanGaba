@@ -26,6 +26,7 @@ function start()
  // check if user has clicked cancel
  if (userName == null){
    // end the program
+   return;
  }
    userAge = prompt("Nice name " + userName +" How old are you ?")
  if (userAge == null || userAge == "" || userAge == " " || isNaN(userAge) || userAge < MINAGE || userAge > MAXAGE){
