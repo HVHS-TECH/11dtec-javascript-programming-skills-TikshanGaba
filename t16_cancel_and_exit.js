@@ -34,10 +34,19 @@ function start()
    userAge = prompt("Nice name " + userName +" How old are you ?")
  if (userAge == null || userAge == "" || userAge == " " || isNaN(userAge) || userAge < MINAGE || userAge > MAXAGE){
     userAge = prompt("Invalid! You must enter you age between " + MINAGE + " and " + MAXAGE)
+     // check if user has clicked cancel
+ if (userAge == null){
+   // end the program
+   return;
+ }
  }
     userMoney = prompt("Oh, "+ userAge + " years old, nice. How much money do you have ?")
      if (userMoney == null || userMoney == "" || userMoney == " " || isNaN(userMoney) ){
         userMoney = prompt("Invalid! You must enter how much money do you have" + userName)
+        if (userMoney == null){
+   // end the program
+   return;
+ }
     }
 let Chocolates = ["Mars Bar = $1 ", "Moro Bar = $2", "King Size Crunchy = $3", "Dairy Milk Block = $4", "Lindt Block = $5"];
 let message = "There are 4 types of chocolates you can buy if you want to. You roptions are :"
