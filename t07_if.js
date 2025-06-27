@@ -8,7 +8,7 @@
 
 //Variables
 var userName = alert(" Welcome To my program, Verify your age");
-let Userage = prompt("Pick a number from 0 to 100 to identify your age");
+let userAge = prompt("Pick a number from 0 to 100 to identify your age");
 /****************************
 Main Code
 ****************************/
